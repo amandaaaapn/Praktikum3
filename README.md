@@ -1,5 +1,16 @@
+### Hallo, Saya Amanda Puspa Negara. Saya membuat ini untuk memenuhi tugas saya
 
-# Cara Installasi Pycharm
+### DAFTAR ISI <br>
+| No | Description | Link |
+| ----- | ----- | ---- |
+| 1 | Cara Installasi Pycharm| [Click Here](#Cara-Installasi-Pycharm)|
+| 2 | Latihan 1 | [Click Here](#Latihan-1) |
+| 3 | Latihan 2 | [Click Here](#Latihan-2) |
+| 4 | Latihan 3 | [Click Here](#Latihan-3) |
+| 5 | Menghitung Luas Dan Keliling Lingkaran | [Click Here](#Menghitung-Luas-Dan-Keliling-Lingkaran) |
+| 6 | Flowchart Menghitung luas dan keliling lingkaran | [Click Here](#Flowchart-Menghitung-luas-dan-keliling-lingkaran) |
+
+# Cara Installasi Pycharm #
 Anda harus install Pycharm di https://www.jetbrains.com/pycharm/download/#section=windows  , Dan anda pilih yang Community
 
 ![Screenshot (43)1](https://user-images.githubusercontent.com/115678845/199135643-06e741d8-c06e-48de-9abe-0bf0fdba6c85.png)
@@ -15,7 +26,7 @@ tunggu hingga selesai
 Jika sudah selesai maka program siap di gunakan
 
 # Cara Menjalankan Pycharm 
-# Latihan 1
+# Latihan 1 #
 
 Pertama-tama anda harus Klik New project lalu kasih nama project anda(sesuai yang anda mau), Dan anda harus pilih yang Previously Configurred interperter lalu klik yang add interperter dan pilih yang System interperter dan anda klik yang versi Python anda seperti gambar di bawah ini
 
@@ -80,7 +91,7 @@ lalu hasil run nya
 
 ![Screenshot (57)](https://user-images.githubusercontent.com/115678845/199137433-3ca643e8-b7a2-432e-9817-6578f9550686.png)
 
-# Latihan 2 
+# Latihan 2 #
 buat latihan baru "latihan2"
 
 lalu masukkan code program
@@ -103,7 +114,7 @@ lalu hasil run nya menjadi
 
 ![Screenshot (59)](https://user-images.githubusercontent.com/115678845/199137734-30af4c9b-8df0-4069-b61e-31273472eeaf.png)
 
-# Latihan 3
+# Latihan 3 #
 buat file baru "latihan3"
 
 masukkan code programnya
@@ -166,7 +177,7 @@ masukkan code programnya
 
 ![Screenshot (63)](https://user-images.githubusercontent.com/115678845/199138207-ae65a0d8-67b9-4e15-8c2a-fd77b679ec56.png)
 
-# Menghitung Luas Dan Keliling Lingkaran
+# Menghitung Luas Dan Keliling Lingkaran #
 buat file baru "praktikum3"
 
 	print('menghitung luas dan keliling lingkarang')
@@ -186,7 +197,7 @@ buat file baru "praktikum3"
 
 ![Screenshot (65)](https://user-images.githubusercontent.com/115678845/199138742-bc3d961d-28b2-4e01-a154-d0ea8728febb.png)
 
-# Flowchart Menghitung luas dan keliling lingkaran
+# Flowchart Menghitung luas dan keliling lingkaran #
 
 ![199132888-b964fb68-df4c-4b40-a824-8365a2337d9c](https://user-images.githubusercontent.com/115678845/199138956-0b4f8353-690b-4525-8c82-b10a7c26f92d.png)
 
